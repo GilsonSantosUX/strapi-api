@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_article_lookups",
+  "info": {
+    "displayName": "Lookup",
+    "icon": "search",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {}
+}
